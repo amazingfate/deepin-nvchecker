@@ -9,3 +9,5 @@ https://github.com/lilydjwg/nvchecker/
 First install nvchecker from https://github.com/lilydjwg/nvchecker/
 
 Then run ```nvchecker nvchecker.ini```
+
+For other packages nvchecker doesn't support, run ```sh otherpkg.sh```
